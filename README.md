@@ -1,0 +1,2 @@
+# gitnew
+clone a repository
